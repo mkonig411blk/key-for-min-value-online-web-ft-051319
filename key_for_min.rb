@@ -1,8 +1,6 @@
 # prereqs: iterators, hashes, conditional logic
 # Given a hash with numeric values, return the key for the smallest value
 
-{chair: 30, table: 50, desk: 15}
-
 def key_for_min_value(hash)
     lowest_value = 30
     lowest_key = chair
